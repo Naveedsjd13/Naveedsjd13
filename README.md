@@ -1,4 +1,4 @@
-# About Me:
+# 👋 About Me:
 Hi there, I’m Naveed, a software engineering student based in Pakistan.<br>I build projects and learn by working on web development and AI/ML stuff.<br><br>My tech stack includes Flutter, React, Node.js, and Python.<br><br>Right now I’m focused on building full stack apps and improving my problem-solving skills.<br><br>Reach me at: naveedsjd13@gmail.com
 
 
